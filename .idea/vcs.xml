@@ -3,6 +3,8 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/app/src/main/java/com/appstone/www/securegateapp3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/res/layout" vcs="Git" />
   </component>
 </project>
