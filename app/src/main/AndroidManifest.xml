@@ -17,7 +17,14 @@
         </activity>
         <activity android:name=".Maintenance_Activity" />
         <activity android:name=".Invite_Friends" />
-        <activity android:name=".Invite2_Friends"></activity>
+        <activity android:name=".Invite2_Friends" />
+        <activity android:name=".tenant_menu" />
+        <activity android:name=".invite" />
+        <activity android:name=".Notice_Board" />
+        <activity android:name=".Maintenance1" />
+        <activity android:name=".see_invitation" />
+        <activity android:name=".Notifications" />
+        <activity android:name=".Pay_Rent"></activity>
     </application>
 
 </manifest>
